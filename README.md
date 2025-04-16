@@ -16,4 +16,10 @@ Objetivo: Dado três arquivos CSV's contendo dados de vendas de produtos, o desa
 
 <li>Ler o arquivo CSV e carregar os dados. </li>
 <li>Processar os dados em um dicionário, onde a chave é a categoria, e o valor é uma lista de dicionários, cada um contendo informações do produto (Produto, Quantidade, Venda).</li>
-<li>Calcular o total de vendas (Quantidade * Venda) por categoria.</li>
+<li>Calcular o total de vendas (Quantidade * Venda) por categoria.</li><br>
+
+
+Os resultados foram:
+
+O total de vendas de cada produto é:
+{'Meia': 23220.9, 'Camiseta': 73734.9, 'Mochila': 95402.1, 'Boné': 58674.9, 'Tênis': 68992.8, 'Calça': 73947.6, 'Jaqueta': 47664.1}
